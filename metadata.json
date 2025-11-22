@@ -1,0 +1,5 @@
+{
+  "name": "Habit Tracker Pro",
+  "description": "A polished, React-based habit and goal tracking application with dashboard, profile management, and progress visualization.",
+  "requestFramePermissions": []
+}
